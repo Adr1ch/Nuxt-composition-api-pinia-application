@@ -63,7 +63,7 @@ export default {
 
     const localData = ref([
       {
-        title: '🦝 🍍 Message from Pinia 🦝 🍍 & Nuxt 🍍 🦝',
+        title: '🍍 Message from Pinia 🍍 & Nuxt 🍍',
       },
     ])
 
